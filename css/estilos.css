@@ -1,0 +1,19 @@
+.logotipo{
+    width: 150px;
+    padding-left: 20%;
+}
+
+#imagen{
+    width: 250px;
+    height: 250px;
+    border-radius: 150px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+form{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
